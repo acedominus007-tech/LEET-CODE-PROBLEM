@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/acedominus007-tech/LEET-CODE-PROBLEM/tree/master/0033-search-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/acedominus007-tech/LEET-CODE-PROBLEM/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
