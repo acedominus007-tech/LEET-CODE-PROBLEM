@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/acedominus007-tech/LEET-CODE-PROBLEM/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/acedominus007-tech/LEET-CODE-PROBLEM/tree/master/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/acedominus007-tech/LEET-CODE-PROBLEM/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/acedominus007-tech/LEET-CODE-PROBLEM/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/acedominus007-tech/LEET-CODE-PROBLEM/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/acedominus007-tech/LEET-CODE-PROBLEM/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/acedominus007-tech/LEET-CODE-PROBLEM/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
